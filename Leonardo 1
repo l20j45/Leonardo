@@ -83,4 +83,103 @@ Mapas de clases de leonardo
 		
 		la segunda seria mediante una maquina virtual
 		se dan opciones de como virtualizar la maquina, y que parametros tienen que mover segun la pc
+		
+		
+5 Clase se verifican las maquinas virtuales y los isos se les apoya con estos
+
+
+		iniciamos las maquinas virtuales y mostramos un linux basico instalado
+		
+		yo debo de tener una maquina virtual de debian y mxtools, o manjaro para ver las diferencias entre los sistemas
+		
+		// de tarea se les deja buscar los codigos mas utilizados en bash
+				
+6 se comienzan a ver los codigos mas usados entre ellos destacamos 
+
+	Como funciona un codigo
 	
+	
+	diferencia entre codigos y parametros
+	
+	
+	como leer la pagina man
+	
+	
+	
+7
+
+	Admnistracion de archivos
+		cd
+		ls
+		cd 
+		rm 
+		cp 
+		mv 
+		mkdir
+		rmdir 
+
+		dos practicas a hacer
+		una es hacer la siguiente estructura de archivos
+		
+		casa
+			piso 1
+			piso 2 	cuartopapas
+					cuartohermana
+					cuarto mio		librero
+									zapatero	escondite	cualquiercosa a esconder
+
+
+		voy a preprar un archivo en 
+
+
+
+
+
+
+		Clear 
+		History 
+		Cat 
+		Head 
+		Tail 
+		pwd 
+		touch 
+		wget 
+		ps 
+		top 
+		man 
+		whatis 
+		unzip 
+		tar 
+		gzip 
+		drush 		
+		sudo
+		chmod
+		chown
+		find
+		locate
+		grep
+		dpkg
+		rpm
+		df
+		du
+		fdisk
+		top
+		ps
+		uptime
+		who
+		whereis
+		sort
+		more
+		less
+		
+		
+		https://www.ochobitshacenunbyte.com/2018/12/04/los-42-comandos-mas-importantes-en-gnu-linux/
+		https://wildwildweb.es/es/blog/los-20-comandos-linux-mas-usados
+		
+		
+		
+		
+		
+
+
+
