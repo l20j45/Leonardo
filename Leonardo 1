@@ -40,7 +40,7 @@ Mapas de clases de leonardo
 		VII. Multiprocesamiento y Virtualización (4 hrs.)		*
 		VIII.­ Casos de estudio (20 hrs.)						*
 		
-	
+	https://slack.com/intl/es-mx/help/articles/360001562747-Problemas-conocidos-de-las-notificaciones-en-Android
 	
 	Video de plataforma de trabajo
 		slack
@@ -94,6 +94,9 @@ Mapas de clases de leonardo
 		
 		// de tarea se les deja buscar los codigos mas utilizados en bash
 				
+				
+5.5 ver si les interesa aprender git para el curso				
+				
 6 se comienzan a ver los codigos mas usados entre ellos destacamos 
 
 	Como funciona un codigo
@@ -117,6 +120,7 @@ Mapas de clases de leonardo
 		mv 
 		mkdir
 		rmdir 
+		pwd
 
 		dos practicas a hacer
 		una es hacer la siguiente estructura de archivos
@@ -129,20 +133,40 @@ Mapas de clases de leonardo
 									zapatero	escondite	cualquiercosa a esconder
 
 
-		voy a preprar un archivo en 
+
+8	se ven los codigos 
+	cat 
+	head
+	tail
+	clear
+	history
+	more
+	less
+	touch
+	
+		voy a preprar un archivo en donde deberan buscar un contenido con una frase secreta 
+
+
+ 9	clase 
+	find
+	locate
+	
+	con esto en mente se pide que se busque como crear scripts en linux
+	
+	
+10	crear un script basico en linux, se ponen los codigo que ya se han visto y se crean scripts con nombres de usuarios y cosas sencillas
 
 
 
+11 se crea el script para separar los archivos por textension txt jpg y mp3
 
 
+12 	se continua con el script 
 
-		Clear 
-		History 
-		Cat 
-		Head 
-		Tail 
-		pwd 
-		touch 
+
+13	
+	
+ 
 		wget 
 		ps 
 		top 
@@ -155,8 +179,6 @@ Mapas de clases de leonardo
 		sudo
 		chmod
 		chown
-		find
-		locate
 		grep
 		dpkg
 		rpm
@@ -169,8 +191,6 @@ Mapas de clases de leonardo
 		who
 		whereis
 		sort
-		more
-		less
 		
 		
 		https://www.ochobitshacenunbyte.com/2018/12/04/los-42-comandos-mas-importantes-en-gnu-linux/
