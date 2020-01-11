@@ -164,9 +164,50 @@ Mapas de clases de leonardo
 12 	se continua con el script 
 
 
-13	
+13	se les enseña a instalar programas ver dependencias sobre linux
+
+	se les deja la tarea de los casos practicos a presentar
 	
- 
+	
+14	exposicion 1 dia
+	se tratan otros temas
+	
+15 exposicion 1 dia se resuelven dudas
+
+16 se presenta la pelicula de deus ex machine
+
+17 sigue la pelicula y hablamos de usuarios en linux, como crearlos
+
+18 sigue el tema de usuarios y permisos en linux
+
+19 se crea un servidor ssh personal con el que puedan trabajar los alumnos (ver si puede se con contenedores)
+
+20 se habla del stack lamp
+
+21 comienza la instalacion del stack lamp
+
+22 se revisa la instalacion del stack lamp y se muestra un plugin
+
+23 instalacion del servicio de monitor de red
+
+24 instalacion del servicio de webmin
+
+25 se les deja el manual de instalar el servicio junto con un plugin	
+
+26 vemos la pelicula de red social
+
+27 seguimos con la pelicula
+
+28 hablamos del proyectos y futuro de la materia
+
+29 se les deja un examen final de la materia con apoyo del curso de cisco
+
+30 libre
+
+31 libre
+
+32 libre
+	
 		wget 
 		ps 
 		top 
