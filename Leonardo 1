@@ -140,7 +140,9 @@ Mapas de clases de leonardo
 
 
 
+
 8	se ven los codigos 
+	nano/vi/emacs
 	cat 
 	head
 	tail
@@ -156,6 +158,11 @@ Mapas de clases de leonardo
  9	clase 
 	find
 	locate
+	echo
+	>
+	>>
+	2>
+	
 	
 	con esto en mente se pide que se busque como crear scripts en linux
 	
